@@ -37,6 +37,8 @@ df.head()
 df.dropna()
 ```
 ![image](https://github.com/user-attachments/assets/070b7e6f-d744-483b-a77e-163aca442c39)
+
+
 ![image](https://github.com/user-attachments/assets/894f1d97-61e7-4853-acc3-ad98a93d863e)
 ```
 from sklearn.preprocessing import MinMaxScaler
